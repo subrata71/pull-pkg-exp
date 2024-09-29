@@ -1,0 +1,25 @@
+{
+  "gitSyncId": "66f987f115b61449bc632ea7_4b8e9977-5c5e-4ca5-a753-2a2eac1a2faf",
+  "id": "Page1_GetUsersByLimit1",
+  "moduleUUID": "8d34d475-2048-490c-9887-3ebe805f6734",
+  "packageUUID": "e66a8210-d890-4c88-bfa8-1d009c4a7b98",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "limit": "2"
+    },
+    "moduleInputs": {
+      "vzjvdixkpq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "2",
+        "id": "vzjvdixkpq",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      }
+    },
+    "name": "GetUsersByLimit1",
+    "pageId": "Page1",
+    "version": "0.0.9"
+  }
+}
